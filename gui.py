@@ -109,11 +109,6 @@ heading.configure(background='#ffffff',foreground='#364156')
 heading1 = Label(top, text="Môn Học: Nhập môn trí tuệ nhân tạo",pady=10, font=('arial',20,'bold'))
 heading1.configure(background='#ffffff',foreground='#364156')
 
-heading2 = Label(top, text="Danh sách thành viên nhóm",pady=5, font=('arial',20,'bold'))
-heading2.configure(background='#ffffff',foreground='#364156')
-
-heading3 = Label(top, text="Văn Huy Du MSSV: 20119205",pady=5, font=('arial',20,'bold'))
-heading3.configure(background='#ffffff',foreground='#364156')
 
 heading.pack()
 heading1.pack()
