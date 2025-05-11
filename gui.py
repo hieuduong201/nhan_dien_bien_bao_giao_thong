@@ -112,6 +112,5 @@ heading1.configure(background='#ffffff',foreground='#364156')
 
 heading.pack()
 heading1.pack()
-heading2.pack()
-heading3.pack()
+
 top.mainloop()
